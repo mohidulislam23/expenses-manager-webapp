@@ -1,4 +1,4 @@
-# Servelet-JSP-practise
+# Expense Manager
 <br><br>
 make a web app on intellij <br>
 Generator: Maven Archetype <br>
